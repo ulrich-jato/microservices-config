@@ -1,1 +1,1 @@
-# microservice-config
+# microservices-config
